@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "toDoApp": {
+      "commandName": "Project",
+      "commandLineArgs": "test"
+    }
+  }
+}
