@@ -1,8 +1,18 @@
 {
   "profiles": {
     "toDoApp": {
+      "commandName": "Project"
+    },
+    "-l": {
       "commandName": "Project",
-      "commandLineArgs": "test"
+      "commandLineArgs": "-l"
+    },
+    "-a": {
+      "commandName": "Project",
+      "commandLineArgs": "-a \"hfefhef\""
+    },
+    "-r": {
+      "commandName": "Project"
     }
   }
 }
